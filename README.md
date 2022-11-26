@@ -3,8 +3,8 @@
 консольная программа, в которой создается и заполняется случайными числами массив и сортируется в порядке убывания значения элементов*/
 
 
-#include<iostream>
-#include<vector>
+#include <iostream>
+#include <vector>
 #include <stdlib.h>   
 #include <time.h> 
 using namespace std;
